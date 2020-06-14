@@ -1,4 +1,4 @@
-# Global Development Challenge
+# Global Developer Challenge
 **A progressive web app for offline image recognition and classification**
 
 ## Technologies used
